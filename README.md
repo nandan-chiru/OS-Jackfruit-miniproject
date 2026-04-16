@@ -11,7 +11,7 @@ Read [`project-guide.md`](project-guide.md) for the full project specification.
 
 ### 1. Fork the Repository
 
-1. Go to [github.com/ohhfarhaan/OS-Jackfruit](https://github.com/nandan-chiru/OS-Jackfruit-miniproject)
+1. Go to [github.com/nandan-chiru/OS-Jackfruit](https://github.com/nandan-chiru/OS-Jackfruit-miniproject)
 2. Click **Fork** (top-right)
 3. Clone your fork:
 
